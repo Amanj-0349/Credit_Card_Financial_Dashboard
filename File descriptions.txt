@@ -1,0 +1,46 @@
+This file contains all the meta information regarding the columns described in the CSV files. I have used 4 csv files here :
+
+1. customer.csv
+2. credit_card.csv
+3. cc_add.csv
+4. cust_add.csv
+
+
+Column Description for customer.csv
+
+1. Client_Num - it contains the unique client number for every customer.
+2. Customer_Age - it contains the age of the customers.
+3. Gender - it contains the age of the customers.
+4. Dependent_Count - it contains how many persons are dependent on the customer.
+5. Education_Level - it shows thw Education_Level of the customers.
+6. Marital_Status - it shows whether customer is marroed or not .
+7. state_cd - it contains the state code of the customers.
+8. Zipcode - it contains the Zipcode of the customers.
+9. Car_Owner - it shows whether the customer own the car or not.
+10. House_Owner - it shows whether the customer own their house or not .
+11. Personal_loan - it show whether customer have the personal loan or not .
+12. contact - it contains how i can contact the customer.
+13. Customer_Job - it contains the profession of the customer.
+14. Income - it contains all the income of the customer.
+15. Cust_Satisfaction_Score - it shows the ratings how much customers is satisfied with the bank . ratings are in the range of 1-5.
+
+Column Description for credit_card.csv
+
+1. Client_Num - it contains the unique client number for every customer.
+2. Card_Category - it shows which type of card does customer holds (there are four type of cards Blue , Gold, Platinum & Silver)
+3. Annual_Fees - it shows the amount customers have to pay annually on the basis of their card type.
+4. Activation_30_Days - 
+5. Customer_Acq_Cost - measures how much an organization spends to acquire new customers.
+6. Week_Start_Date - it shows in the start date of customers. 
+7. Week_Num - it shows in which week of the month cutomers take the credit card.
+8. Qtr -  it shows the Qtr.
+9. current_year - it shows the current year. 
+10. Credit_Limit - it shows how much amount you can borrow.
+11. Total_Revolving_Bal - The balance that carries over from one month to the next
+12. Total_Trans_Amt - it shows the Total transition amount spend by the customer in a week.
+13. Total_Trans_Vol - it shows the total transaction volume means how many times u have used your credit card in a week. 
+14. Avg_Utilization_Ratio - it shows the divison of Credit_Limit by Total_Revolving_Bal .
+15. Use Chip - it shows how customer used their card to pay the bill and there are three ways which is chip , online and swipe.
+16. Exp Type - it shows where you have used your card on which thing.
+17. Interest_Earned - it shows how much intrest does bank earn by each customer in a week.
+18. Delinquent_Acc - it means if the customers have not able to pay the credit card bill it account is mentioned in deliquent account .
